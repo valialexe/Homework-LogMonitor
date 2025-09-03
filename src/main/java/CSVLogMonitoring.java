@@ -179,7 +179,7 @@ public class CSVLogMonitoring {
      * Generate report with warnings and errors based on duration thresholds
      */
     private void generateReport(List<JobInfo> jobs, PrintWriter output) {
-        output.println("\n=== JOB ANALYSIS REPORT ===");
+        output.println("=== JOB ANALYSIS REPORT ===");
         
         int warningCount = 0;
         int errorCount = 0;
