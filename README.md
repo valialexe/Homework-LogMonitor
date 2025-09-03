@@ -69,10 +69,6 @@ mvn clean package
 ## Sample Output
 
 ```
-CSV format validation passed
-Parsed 88 log entries
-Found 43 completed jobs
-
 === JOB ANALYSIS REPORT ===
 OK: Job: scheduled task 032 (PID: 37980) - Duration: 0.55 minutes
 WARNING: Job: scheduled task 074 (PID: 71766) - Duration: 5.78 minutes (took longer than 5 minutes)
