@@ -25,6 +25,8 @@ Example:
 09:12:00,Backup Task,END,12346
 ```
 
+**Sample CSV file:** [src/main/resources/sample_log.csv](src/main/resources/sample_log.csv)
+
 ## Application Logic
 
 The application follows a simple 4-step process:
@@ -79,6 +81,8 @@ Total jobs: 43
 Warnings (>5 min): 9
 Errors (>10 min): 10
 ```
+
+**Sample output file:** [src/main/resources/output.txt](src/main/resources/output.txt)
 
 ## Work in Progress
 
